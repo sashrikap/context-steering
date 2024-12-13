@@ -1,0 +1,8 @@
+fire==0.6.0
+pandas==2.2.3
+torch
+tqdm
+transformers==4.44.2
+huggingface_hub[cli]==0.25.0
+pytest==8.3.3
+accelerate==0.34.2
